@@ -1,0 +1,1358 @@
+[
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "PersonEventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonEventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonEventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidatorException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "SignException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "SignException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidatorException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonException",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonValidator",
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "isExtraImport": true,
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeople",
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeopleRepException",
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeople",
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeopleRepException",
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeople",
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeopleRepException",
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "Sign",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Sign",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Sign",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Sign",
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "isExtraImport": true,
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRep",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRepException",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRep",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRepException",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRep",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRep",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRep",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRepException",
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "isExtraImport": true,
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRep",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRepException",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRep",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRepException",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRep",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRep",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRep",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRepException",
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "isExtraImport": true,
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventDTOAssembler",
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "isExtraImport": true,
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "EventSortDTOAssembler",
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "isExtraImport": true,
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleDTOAssembler",
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "isExtraImport": true,
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "EventSortDTO",
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "isExtraImport": true,
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleDTO",
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "isExtraImport": true,
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "EventsService",
+        "importPath": "Service.events_service",
+        "description": "Service.events_service",
+        "isExtraImport": true,
+        "detail": "Service.events_service",
+        "documentation": {}
+    },
+    {
+        "label": "EventsService",
+        "importPath": "Service.events_service",
+        "description": "Service.events_service",
+        "isExtraImport": true,
+        "detail": "Service.events_service",
+        "documentation": {}
+    },
+    {
+        "label": "EventsService",
+        "importPath": "Service.events_service",
+        "description": "Service.events_service",
+        "isExtraImport": true,
+        "detail": "Service.events_service",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleService",
+        "importPath": "Service.people_service",
+        "description": "Service.people_service",
+        "isExtraImport": true,
+        "detail": "Service.people_service",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleService",
+        "importPath": "Service.people_service",
+        "description": "Service.people_service",
+        "isExtraImport": true,
+        "detail": "Service.people_service",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleService",
+        "importPath": "Service.people_service",
+        "description": "Service.people_service",
+        "isExtraImport": true,
+        "detail": "Service.people_service",
+        "documentation": {}
+    },
+    {
+        "label": "SignSerivce",
+        "importPath": "Service.sign_service",
+        "description": "Service.sign_service",
+        "isExtraImport": true,
+        "detail": "Service.sign_service",
+        "documentation": {}
+    },
+    {
+        "label": "SignSerivce",
+        "importPath": "Service.sign_service",
+        "description": "Service.sign_service",
+        "isExtraImport": true,
+        "detail": "Service.sign_service",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "UI.console",
+        "description": "UI.console",
+        "isExtraImport": true,
+        "detail": "UI.console",
+        "documentation": {}
+    },
+    {
+        "label": "EventTextFile",
+        "importPath": "Repository.text_file_repository",
+        "description": "Repository.text_file_repository",
+        "isExtraImport": true,
+        "detail": "Repository.text_file_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleTextFile",
+        "importPath": "Repository.text_file_repository",
+        "description": "Repository.text_file_repository",
+        "isExtraImport": true,
+        "detail": "Repository.text_file_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignTextFile",
+        "importPath": "Repository.sign_text_file_repository",
+        "description": "Repository.sign_text_file_repository",
+        "isExtraImport": true,
+        "detail": "Repository.sign_text_file_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleDTO",
+        "kind": 6,
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "peekOfCode": "class PeopleDTO:\n    person_name: str\n    number_of_events: int\n    def __str__(self):\n        return f\"{self.person_name} participa la {self.number_of_events} eveniment(e).\"\n@dataclass\nclass EventsDTO:\n    event_description: str\n    number_of_participants: int\n    def __str__(self):",
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "EventsDTO",
+        "kind": 6,
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "peekOfCode": "class EventsDTO:\n    event_description: str\n    number_of_participants: int\n    def __str__(self):\n        return f\"La evenimentul {self.event_description} participa {self.number_of_participants} persoane.\"\n@dataclass\nclass EventSortDTO:\n    event_day: str\n    event_month: str\n    event_descr: str",
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "EventSortDTO",
+        "kind": 6,
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "peekOfCode": "class EventSortDTO:\n    event_day: str\n    event_month: str\n    event_descr: str\n    def __str__(self):\n        return f\"Evenimentul {self.event_descr} are loc la data de {self.event_day}/{self.event_month}.\"\nclass EventSortDTOAssembler:\n    @staticmethod\n    def create_event_sort_dto(event):\n        date = event.date.split(\".\")",
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "EventSortDTOAssembler",
+        "kind": 6,
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "peekOfCode": "class EventSortDTOAssembler:\n    @staticmethod\n    def create_event_sort_dto(event):\n        date = event.date.split(\".\")\n        event_day = date[0]\n        event_month = date[1]\n        event_descr = event.description\n        return EventSortDTO(event_day, event_month, event_descr)\nclass PeopleDTOAssembler:\n    @staticmethod",
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleDTOAssembler",
+        "kind": 6,
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "peekOfCode": "class PeopleDTOAssembler:\n    @staticmethod\n    def create_person_dto(person, sign_list):\n        number_of_events = len(sign_list)\n        person_name = person.name\n        return PeopleDTO(person_name, number_of_events)\nclass EventDTOAssembler:\n    @staticmethod\n    def create_event_dto(event, sign_list):\n        event_description = event.description",
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "EventDTOAssembler",
+        "kind": 6,
+        "importPath": "Domain.dto",
+        "description": "Domain.dto",
+        "peekOfCode": "class EventDTOAssembler:\n    @staticmethod\n    def create_event_dto(event, sign_list):\n        event_description = event.description\n        number_of_participants = len(sign_list)\n        return EventsDTO(event_description, number_of_participants)",
+        "detail": "Domain.dto",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "peekOfCode": "class Person:\n    personID: int\n    name: str\n    adress: str\n    # Print Person\n    def __str__(self):\n        return f\"ID: {self.personID}, Nume: {self.name}, Adresa: {self.adress} \\n\"\n@dataclass\nclass Event:\n    ID: int",
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "kind": 6,
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "peekOfCode": "class Event:\n    ID: int\n    date: str\n    time: int\n    description: str\n    # Print Event\n    def __str__(self):\n        return f\"ID: {self.ID}, Data (zz/ll): {self.date}, Timp (in zile): {self.time}, Descriere: {self.description} \\n\"\n@dataclass\nclass Sign:",
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "Sign",
+        "kind": 6,
+        "importPath": "Domain.entities",
+        "description": "Domain.entities",
+        "peekOfCode": "class Sign:\n    person_id: int\n    event_id: int",
+        "detail": "Domain.entities",
+        "documentation": {}
+    },
+    {
+        "label": "PersonEventException",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class PersonEventException(Exception):\n    pass\nclass PersonException(PersonEventException):\n    pass\nclass EventException(PersonEventException):\n    pass\nclass ValidatorException(PersonEventException):\n    pass\nclass SignException(PersonEventException):\n    pass",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonException",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class PersonException(PersonEventException):\n    pass\nclass EventException(PersonEventException):\n    pass\nclass ValidatorException(PersonEventException):\n    pass\nclass SignException(PersonEventException):\n    pass\nclass EventValidator:\n    def validate(self, event):",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventException",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class EventException(PersonEventException):\n    pass\nclass ValidatorException(PersonEventException):\n    pass\nclass SignException(PersonEventException):\n    pass\nclass EventValidator:\n    def validate(self, event):\n        date = event.date.split('.')\n        if len(date) < 2 or date[1] > '12' or (date[1] in ['01', '03', '05', '07', '08', '10', '12'] and date[0] > '31') or (date[1] == '02' and date[0] > '28') or (date[1] in ['04', '06', '09', '11'] and date[0] > '30'):",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidatorException",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class ValidatorException(PersonEventException):\n    pass\nclass SignException(PersonEventException):\n    pass\nclass EventValidator:\n    def validate(self, event):\n        date = event.date.split('.')\n        if len(date) < 2 or date[1] > '12' or (date[1] in ['01', '03', '05', '07', '08', '10', '12'] and date[0] > '31') or (date[1] == '02' and date[0] > '28') or (date[1] in ['04', '06', '09', '11'] and date[0] > '30'):\n            raise ValidatorException(\"Data invalida!\")\nclass PersonValidator:",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "SignException",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class SignException(PersonEventException):\n    pass\nclass EventValidator:\n    def validate(self, event):\n        date = event.date.split('.')\n        if len(date) < 2 or date[1] > '12' or (date[1] in ['01', '03', '05', '07', '08', '10', '12'] and date[0] > '31') or (date[1] == '02' and date[0] > '28') or (date[1] in ['04', '06', '09', '11'] and date[0] > '30'):\n            raise ValidatorException(\"Data invalida!\")\nclass PersonValidator:\n    def validate(self, person):\n        if len(person.name) < 3:",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventValidator",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class EventValidator:\n    def validate(self, event):\n        date = event.date.split('.')\n        if len(date) < 2 or date[1] > '12' or (date[1] in ['01', '03', '05', '07', '08', '10', '12'] and date[0] > '31') or (date[1] == '02' and date[0] > '28') or (date[1] in ['04', '06', '09', '11'] and date[0] > '30'):\n            raise ValidatorException(\"Data invalida!\")\nclass PersonValidator:\n    def validate(self, person):\n        if len(person.name) < 3:\n            raise ValidatorException(\"Numele nu poate avea mai putin de trei caractere!\")",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PersonValidator",
+        "kind": 6,
+        "importPath": "Domain.validators",
+        "description": "Domain.validators",
+        "peekOfCode": "class PersonValidator:\n    def validate(self, person):\n        if len(person.name) < 3:\n            raise ValidatorException(\"Numele nu poate avea mai putin de trei caractere!\")",
+        "detail": "Domain.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EventRepException",
+        "kind": 6,
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "peekOfCode": "class EventRepException(PersonEventException):\n    pass\nclass EventRep:\n    def __init__(self):\n        self.__event_list = {}\n    def save_event(self, event):\n        if self.find_event_by_id(event.ID) is not None:\n            raise EventRepException(\"Id duplicat!\")\n        self.__event_list[event.ID] = event\n    def find_event_by_id(self, event_id):",
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventRep",
+        "kind": 6,
+        "importPath": "Repository.events_repository",
+        "description": "Repository.events_repository",
+        "peekOfCode": "class EventRep:\n    def __init__(self):\n        self.__event_list = {}\n    def save_event(self, event):\n        if self.find_event_by_id(event.ID) is not None:\n            raise EventRepException(\"Id duplicat!\")\n        self.__event_list[event.ID] = event\n    def find_event_by_id(self, event_id):\n        try:\n            return self.__event_list[event_id]",
+        "detail": "Repository.events_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRepException",
+        "kind": 6,
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "peekOfCode": "class PeopleRepException(PersonEventException):\n    pass\nclass PeopleRep:\n    def __init__(self):\n        self.__people_list = {}\n    def save_person(self, person):\n        if self.find_person_by_id(person.personID) is not None:\n            raise PeopleRepException(\"Id duplicat!\")\n        self.__people_list[person.personID] = person\n    def find_person_by_id(self, person_id):",
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleRep",
+        "kind": 6,
+        "importPath": "Repository.people_repository",
+        "description": "Repository.people_repository",
+        "peekOfCode": "class PeopleRep:\n    def __init__(self):\n        self.__people_list = {}\n    def save_person(self, person):\n        if self.find_person_by_id(person.personID) is not None:\n            raise PeopleRepException(\"Id duplicat!\")\n        self.__people_list[person.personID] = person\n    def find_person_by_id(self, person_id):\n        try:\n            return self.__people_list[person_id]",
+        "detail": "Repository.people_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeopleRepException",
+        "kind": 6,
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "peekOfCode": "class SignPeopleRepException(PersonEventException):\n    pass\nclass SignPeople():\n    def __init__(self, people_repository, event_repository):\n        self.__people_repository = people_repository\n        self.__event_repository = event_repository\n        self.__sign_list = []\n    def sign_people(self, sign):\n        self.verify_existance(sign.person_id, sign.event_id)\n        if self.find_sign(sign.person_id, sign.event_id) is not None:",
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignPeople",
+        "kind": 6,
+        "importPath": "Repository.sign_repository",
+        "description": "Repository.sign_repository",
+        "peekOfCode": "class SignPeople():\n    def __init__(self, people_repository, event_repository):\n        self.__people_repository = people_repository\n        self.__event_repository = event_repository\n        self.__sign_list = []\n    def sign_people(self, sign):\n        self.verify_existance(sign.person_id, sign.event_id)\n        if self.find_sign(sign.person_id, sign.event_id) is not None:\n            raise SignPeopleRepException(\"O persoana nu se poate inscrie de doua ori la acelasi eveniment!\")\n        self.__sign_list.append(sign)",
+        "detail": "Repository.sign_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SignTextFile",
+        "kind": 6,
+        "importPath": "Repository.sign_text_file_repository",
+        "description": "Repository.sign_text_file_repository",
+        "peekOfCode": "class SignTextFile(SignPeople):\n    def __init__(self, file_name, people_repository, events_repository):\n        self.__people_repository = people_repository\n        self.__events_repository = events_repository\n        super().__init__(self.__people_repository, self.__events_repository)\n        self.__file_name = file_name\n        self.__load_data()\n    def __load_data(self):\n        with open(self.__file_name) as f:\n            for line in f:",
+        "detail": "Repository.sign_text_file_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleTextFile",
+        "kind": 6,
+        "importPath": "Repository.text_file_repository",
+        "description": "Repository.text_file_repository",
+        "peekOfCode": "class PeopleTextFile(PeopleRep):\n    def __init__(self, file_name, person_validator):\n        super().__init__()\n        self.__file_name = file_name\n        self.__person_validator = person_validator\n        self.load_data()\n    def load_data(self):\n        with open(self.__file_name) as f:\n            for line in f:\n                person_string = line.split(\",\")",
+        "detail": "Repository.text_file_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventTextFile",
+        "kind": 6,
+        "importPath": "Repository.text_file_repository",
+        "description": "Repository.text_file_repository",
+        "peekOfCode": "class EventTextFile(EventRep):\n    def __init__(self, file_name, event_validator):\n        super().__init__()\n        self.__file_name = file_name\n        self.__event_validator = event_validator\n        self.load_data()\n    def load_data(self):\n        with open(self.__file_name) as f:\n            for line in f:\n                event_string = line.split(\",\")",
+        "detail": "Repository.text_file_repository",
+        "documentation": {}
+    },
+    {
+        "label": "EventsService",
+        "kind": 6,
+        "importPath": "Service.events_service",
+        "description": "Service.events_service",
+        "peekOfCode": "class EventsService:\n    def __init__(self, events_repository, event_exception, event_validator):\n        self.__events_repository = events_repository\n        self.__event_validator = event_validator\n        self.__event_exception = event_exception\n    def get_all_events(self):\n        return self.__events_repository.find_all_events()\n    def add_event(self, event_id, date, time, description):\n        event = Event(event_id, date, time, description)\n        self.__event_validator.validate(event)",
+        "detail": "Service.events_service",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleService",
+        "kind": 6,
+        "importPath": "Service.people_service",
+        "description": "Service.people_service",
+        "peekOfCode": "class PeopleService:\n    def __init__(self, person_repository, person_exception, person_validator):\n        self.__person_repository = person_repository\n        self.__person_validator = person_validator\n        self.__person_exception = person_exception\n    def get_all_people(self):\n        return self.__person_repository.find_all()\n    def add_person(self, person_id, name, adress):\n        person = Person(person_id, name, adress)\n        self.__person_validator.validate(person)",
+        "detail": "Service.people_service",
+        "documentation": {}
+    },
+    {
+        "label": "SignSerivce",
+        "kind": 6,
+        "importPath": "Service.sign_service",
+        "description": "Service.sign_service",
+        "peekOfCode": "class SignSerivce():\n    def __init__(self, sign_repository, people_repository, event_repository, person_exception, event_exception):\n        self.__sign_repository = sign_repository\n        self.__people_repository = people_repository\n        self.__event_repository = event_repository\n        self.__person_exception = person_exception\n        self.__event_exception = event_exception\n    def sign_person_to_event(self, person_id, event_id):\n        \"\"\"Inscrie o persoana la un eveniment.\n        Args:",
+        "detail": "Service.sign_service",
+        "documentation": {}
+    },
+    {
+        "label": "TestEntities",
+        "kind": 6,
+        "importPath": "Teste.Test_Domain.entities_test",
+        "description": "Teste.Test_Domain.entities_test",
+        "peekOfCode": "class TestEntities(unittest.TestCase):\n    def test_print_person(self):\n        prs_array = str(person)\n        self.assertEqual(prs_array, \"ID: 1, Nume: person, Adresa: adress \\n\")\\\n    def test_print_event(self):\n        event_array = str(event)\n        self.assertEqual(event_array, \"ID: 1, Data (zz/ll): 01.01, Timp (in zile): 3, Descriere: descr \\n\")",
+        "detail": "Teste.Test_Domain.entities_test",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.entities_test",
+        "description": "Teste.Test_Domain.entities_test",
+        "peekOfCode": "person = Person(1, \"person\", \"adress\")\nevent = Event(1, \"01.01\", 3, \"descr\")\nclass TestEntities(unittest.TestCase):\n    def test_print_person(self):\n        prs_array = str(person)\n        self.assertEqual(prs_array, \"ID: 1, Nume: person, Adresa: adress \\n\")\\\n    def test_print_event(self):\n        event_array = str(event)\n        self.assertEqual(event_array, \"ID: 1, Data (zz/ll): 01.01, Timp (in zile): 3, Descriere: descr \\n\")",
+        "detail": "Teste.Test_Domain.entities_test",
+        "documentation": {}
+    },
+    {
+        "label": "event",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.entities_test",
+        "description": "Teste.Test_Domain.entities_test",
+        "peekOfCode": "event = Event(1, \"01.01\", 3, \"descr\")\nclass TestEntities(unittest.TestCase):\n    def test_print_person(self):\n        prs_array = str(person)\n        self.assertEqual(prs_array, \"ID: 1, Nume: person, Adresa: adress \\n\")\\\n    def test_print_event(self):\n        event_array = str(event)\n        self.assertEqual(event_array, \"ID: 1, Data (zz/ll): 01.01, Timp (in zile): 3, Descriere: descr \\n\")",
+        "detail": "Teste.Test_Domain.entities_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidators",
+        "kind": 6,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "class TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)\n    def test_event_validator(self):\n        with self.assertRaises(ValidatorException):\n            event_validator.validate(event1)\n        with self.assertRaises(ValidatorException):\n            event_validator.validate(event2)\n        with self.assertRaises(ValidatorException):",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_validator",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "event_validator = EventValidator()\nperson_validator = PersonValidator()\nperson = Person(1, \"io\", \"adress\")\nevent1 = Event(1, \"01/01\", 3, \"descr\")\nevent2 = Event(2, \"01.13\", 3, \"descr\")\nevent3 = Event(3, \"32.01\", 3, \"descr\")\nevent4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "person_validator",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "person_validator = PersonValidator()\nperson = Person(1, \"io\", \"adress\")\nevent1 = Event(1, \"01/01\", 3, \"descr\")\nevent2 = Event(2, \"01.13\", 3, \"descr\")\nevent3 = Event(3, \"32.01\", 3, \"descr\")\nevent4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "person = Person(1, \"io\", \"adress\")\nevent1 = Event(1, \"01/01\", 3, \"descr\")\nevent2 = Event(2, \"01.13\", 3, \"descr\")\nevent3 = Event(3, \"32.01\", 3, \"descr\")\nevent4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "event1",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "event1 = Event(1, \"01/01\", 3, \"descr\")\nevent2 = Event(2, \"01.13\", 3, \"descr\")\nevent3 = Event(3, \"32.01\", 3, \"descr\")\nevent4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)\n    def test_event_validator(self):",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "event2",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "event2 = Event(2, \"01.13\", 3, \"descr\")\nevent3 = Event(3, \"32.01\", 3, \"descr\")\nevent4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)\n    def test_event_validator(self):\n        with self.assertRaises(ValidatorException):",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "event3",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "event3 = Event(3, \"32.01\", 3, \"descr\")\nevent4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)\n    def test_event_validator(self):\n        with self.assertRaises(ValidatorException):\n            event_validator.validate(event1)",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "event4",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "event4 = Event(4, \"30.02\", 3, \"descr\")\nevent5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)\n    def test_event_validator(self):\n        with self.assertRaises(ValidatorException):\n            event_validator.validate(event1)\n        with self.assertRaises(ValidatorException):",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "event5",
+        "kind": 5,
+        "importPath": "Teste.Test_Domain.validators_test",
+        "description": "Teste.Test_Domain.validators_test",
+        "peekOfCode": "event5 = Event(5, \"32.04\", 3, \"descr\")\nclass TestValidators(unittest.TestCase):\n    def test_person_validator(self):\n        with self.assertRaises(ValidatorException):\n            person_validator.validate(person)\n    def test_event_validator(self):\n        with self.assertRaises(ValidatorException):\n            event_validator.validate(event1)\n        with self.assertRaises(ValidatorException):\n            event_validator.validate(event2)",
+        "detail": "Teste.Test_Domain.validators_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestEventRepository",
+        "kind": 6,
+        "importPath": "Teste.Test_Repository.event_repository_test",
+        "description": "Teste.Test_Repository.event_repository_test",
+        "peekOfCode": "class TestEventRepository(unittest.TestCase):\n    def setup(self):\n        event_repository.save_event(Event(1, \"03.09\", 5, \"event1\"))\n        event_repository.save_event(Event(2, \"03.04\", 3, \"event2\"))    \n    def test_save_event(self):\n        self.setup()\n        self.assertIsNone(event_repository.save_event(Event(3, \"03.03\", 4, \"event3\")))\n        with self.assertRaises(event_repository_exception):\n            event_repository.save_event(Event(1, \"01.01\", 3, \"event4\"))\n        event_repository.delete_all_events()",
+        "detail": "Teste.Test_Repository.event_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.event_repository_test",
+        "description": "Teste.Test_Repository.event_repository_test",
+        "peekOfCode": "event_repository = EventRep()\nevent_repository_exception = EventRepException\nclass TestEventRepository(unittest.TestCase):\n    def setup(self):\n        event_repository.save_event(Event(1, \"03.09\", 5, \"event1\"))\n        event_repository.save_event(Event(2, \"03.04\", 3, \"event2\"))    \n    def test_save_event(self):\n        self.setup()\n        self.assertIsNone(event_repository.save_event(Event(3, \"03.03\", 4, \"event3\")))\n        with self.assertRaises(event_repository_exception):",
+        "detail": "Teste.Test_Repository.event_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_repository_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.event_repository_test",
+        "description": "Teste.Test_Repository.event_repository_test",
+        "peekOfCode": "event_repository_exception = EventRepException\nclass TestEventRepository(unittest.TestCase):\n    def setup(self):\n        event_repository.save_event(Event(1, \"03.09\", 5, \"event1\"))\n        event_repository.save_event(Event(2, \"03.04\", 3, \"event2\"))    \n    def test_save_event(self):\n        self.setup()\n        self.assertIsNone(event_repository.save_event(Event(3, \"03.03\", 4, \"event3\")))\n        with self.assertRaises(event_repository_exception):\n            event_repository.save_event(Event(1, \"01.01\", 3, \"event4\"))",
+        "detail": "Teste.Test_Repository.event_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestPeopleRepository",
+        "kind": 6,
+        "importPath": "Teste.Test_Repository.people_repository_test",
+        "description": "Teste.Test_Repository.people_repository_test",
+        "peekOfCode": "class TestPeopleRepository(unittest.TestCase):\n    def setup(self):\n        person_repository.save_person(Person(1, \"person1\", \"adress\"))\n        person_repository.save_person(Person(2, \"person2\", \"adress\"))       \n    def test_save_person(self):\n        self.setup()\n        self.assertIsNone(person_repository.save_person(Person(3, \"person3\", \"adress\")))\n        with self.assertRaises(repository_exception):\n            person_repository.save_person(Person(1, \"person1\", \"adress\"))\n        person_repository.delete_all_people()",
+        "detail": "Teste.Test_Repository.people_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "person_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.people_repository_test",
+        "description": "Teste.Test_Repository.people_repository_test",
+        "peekOfCode": "person_repository = PeopleRep()\nrepository_exception = PeopleRepException\nclass TestPeopleRepository(unittest.TestCase):\n    def setup(self):\n        person_repository.save_person(Person(1, \"person1\", \"adress\"))\n        person_repository.save_person(Person(2, \"person2\", \"adress\"))       \n    def test_save_person(self):\n        self.setup()\n        self.assertIsNone(person_repository.save_person(Person(3, \"person3\", \"adress\")))\n        with self.assertRaises(repository_exception):",
+        "detail": "Teste.Test_Repository.people_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "repository_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.people_repository_test",
+        "description": "Teste.Test_Repository.people_repository_test",
+        "peekOfCode": "repository_exception = PeopleRepException\nclass TestPeopleRepository(unittest.TestCase):\n    def setup(self):\n        person_repository.save_person(Person(1, \"person1\", \"adress\"))\n        person_repository.save_person(Person(2, \"person2\", \"adress\"))       \n    def test_save_person(self):\n        self.setup()\n        self.assertIsNone(person_repository.save_person(Person(3, \"person3\", \"adress\")))\n        with self.assertRaises(repository_exception):\n            person_repository.save_person(Person(1, \"person1\", \"adress\"))",
+        "detail": "Teste.Test_Repository.people_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestSignRepository",
+        "kind": 6,
+        "importPath": "Teste.Test_Repository.sign_repository_test",
+        "description": "Teste.Test_Repository.sign_repository_test",
+        "peekOfCode": "class TestSignRepository(unittest.TestCase):\n    def setup(self):\n       event_repository.save_event(Event(1, \"01.01\", 3, \"event1\"))\n       event_repository.save_event(Event(2, \"02.02\", 5, \"event3\"))\n       event_repository.save_event(Event(3, \"03.03\", 6, \"event3\"))\n       people_repository.save_person(Person(1, \"person1\", \"adress\"))\n       people_repository.save_person(Person(2, \"person2\", \"adress\"))\n       sign_repository.sign_people(Sign(1, 1))\n       sign_repository.sign_people(Sign(2, 3))\n       sign_repository.sign_people(Sign(1, 3))",
+        "detail": "Teste.Test_Repository.sign_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.sign_repository_test",
+        "description": "Teste.Test_Repository.sign_repository_test",
+        "peekOfCode": "event_repository = EventRep()\npeople_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nclass TestSignRepository(unittest.TestCase):\n    def setup(self):\n       event_repository.save_event(Event(1, \"01.01\", 3, \"event1\"))\n       event_repository.save_event(Event(2, \"02.02\", 5, \"event3\"))\n       event_repository.save_event(Event(3, \"03.03\", 6, \"event3\"))\n       people_repository.save_person(Person(1, \"person1\", \"adress\"))\n       people_repository.save_person(Person(2, \"person2\", \"adress\"))",
+        "detail": "Teste.Test_Repository.sign_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.sign_repository_test",
+        "description": "Teste.Test_Repository.sign_repository_test",
+        "peekOfCode": "people_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nclass TestSignRepository(unittest.TestCase):\n    def setup(self):\n       event_repository.save_event(Event(1, \"01.01\", 3, \"event1\"))\n       event_repository.save_event(Event(2, \"02.02\", 5, \"event3\"))\n       event_repository.save_event(Event(3, \"03.03\", 6, \"event3\"))\n       people_repository.save_person(Person(1, \"person1\", \"adress\"))\n       people_repository.save_person(Person(2, \"person2\", \"adress\"))\n       sign_repository.sign_people(Sign(1, 1))",
+        "detail": "Teste.Test_Repository.sign_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "sign_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Repository.sign_repository_test",
+        "description": "Teste.Test_Repository.sign_repository_test",
+        "peekOfCode": "sign_repository = SignPeople(people_repository, event_repository)\nclass TestSignRepository(unittest.TestCase):\n    def setup(self):\n       event_repository.save_event(Event(1, \"01.01\", 3, \"event1\"))\n       event_repository.save_event(Event(2, \"02.02\", 5, \"event3\"))\n       event_repository.save_event(Event(3, \"03.03\", 6, \"event3\"))\n       people_repository.save_person(Person(1, \"person1\", \"adress\"))\n       people_repository.save_person(Person(2, \"person2\", \"adress\"))\n       sign_repository.sign_people(Sign(1, 1))\n       sign_repository.sign_people(Sign(2, 3))",
+        "detail": "Teste.Test_Repository.sign_repository_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestEventService",
+        "kind": 6,
+        "importPath": "Teste.Test_Service.events_service_test",
+        "description": "Teste.Test_Service.events_service_test",
+        "peekOfCode": "class TestEventService(unittest.TestCase):\n    def setup(self):\n        events_service.add_event(1, \"03.10\", 3, \"Oktoberfest\")\n        events_service.add_event(2, \"10.07\", 5, \"Rockstadt\")\n        events_service.add_event(3, \"05.04\", 7, \"Festivalul gratarelor\")\n        events_service.add_event(4, \"05.04\", 4, \"Concursul de vopsit oua\")\n    def clear_test(self):\n        events_repository.delete_all_events()\n    def test_check_if_event_exist(self):\n        self.setup()",
+        "detail": "Teste.Test_Service.events_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_validator",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.events_service_test",
+        "description": "Teste.Test_Service.events_service_test",
+        "peekOfCode": "event_validator = EventValidator()\nevent_exception = EventException\nevents_repository = EventRep()\nevents_service = EventsService(events_repository, event_exception, event_validator)\nclass TestEventService(unittest.TestCase):\n    def setup(self):\n        events_service.add_event(1, \"03.10\", 3, \"Oktoberfest\")\n        events_service.add_event(2, \"10.07\", 5, \"Rockstadt\")\n        events_service.add_event(3, \"05.04\", 7, \"Festivalul gratarelor\")\n        events_service.add_event(4, \"05.04\", 4, \"Concursul de vopsit oua\")",
+        "detail": "Teste.Test_Service.events_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.events_service_test",
+        "description": "Teste.Test_Service.events_service_test",
+        "peekOfCode": "event_exception = EventException\nevents_repository = EventRep()\nevents_service = EventsService(events_repository, event_exception, event_validator)\nclass TestEventService(unittest.TestCase):\n    def setup(self):\n        events_service.add_event(1, \"03.10\", 3, \"Oktoberfest\")\n        events_service.add_event(2, \"10.07\", 5, \"Rockstadt\")\n        events_service.add_event(3, \"05.04\", 7, \"Festivalul gratarelor\")\n        events_service.add_event(4, \"05.04\", 4, \"Concursul de vopsit oua\")\n    def clear_test(self):",
+        "detail": "Teste.Test_Service.events_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "events_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.events_service_test",
+        "description": "Teste.Test_Service.events_service_test",
+        "peekOfCode": "events_repository = EventRep()\nevents_service = EventsService(events_repository, event_exception, event_validator)\nclass TestEventService(unittest.TestCase):\n    def setup(self):\n        events_service.add_event(1, \"03.10\", 3, \"Oktoberfest\")\n        events_service.add_event(2, \"10.07\", 5, \"Rockstadt\")\n        events_service.add_event(3, \"05.04\", 7, \"Festivalul gratarelor\")\n        events_service.add_event(4, \"05.04\", 4, \"Concursul de vopsit oua\")\n    def clear_test(self):\n        events_repository.delete_all_events()",
+        "detail": "Teste.Test_Service.events_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "events_service",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.events_service_test",
+        "description": "Teste.Test_Service.events_service_test",
+        "peekOfCode": "events_service = EventsService(events_repository, event_exception, event_validator)\nclass TestEventService(unittest.TestCase):\n    def setup(self):\n        events_service.add_event(1, \"03.10\", 3, \"Oktoberfest\")\n        events_service.add_event(2, \"10.07\", 5, \"Rockstadt\")\n        events_service.add_event(3, \"05.04\", 7, \"Festivalul gratarelor\")\n        events_service.add_event(4, \"05.04\", 4, \"Concursul de vopsit oua\")\n    def clear_test(self):\n        events_repository.delete_all_events()\n    def test_check_if_event_exist(self):",
+        "detail": "Teste.Test_Service.events_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestPeopleService",
+        "kind": 6,
+        "importPath": "Teste.Test_Service.people_service_test",
+        "description": "Teste.Test_Service.people_service_test",
+        "peekOfCode": "class TestPeopleService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"Teodor\", \"teodor_15@gmail.com\")\n        people_service.add_person(2, \"Alex\", \"alex.2003@gmail.com\")\n        people_service.add_person(3, \"Teodor\", \"teodor.1404@gmail.com\")\n    def clear_test(self):\n        people_reposiotry.delete_all_people()\n    def test_check_if_exists(self):\n        self.setup()\n        self.assertEqual(people_service.check_if_exists(1), Person(1, \"Teodor\", \"teodor_15@gmail.com\"))",
+        "detail": "Teste.Test_Service.people_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_validator",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.people_service_test",
+        "description": "Teste.Test_Service.people_service_test",
+        "peekOfCode": "people_validator = PersonValidator()\npeople_exception = PersonException\npeople_reposiotry = PeopleRep()\npeople_service = PeopleService(people_reposiotry, people_exception, people_validator)\nclass TestPeopleService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"Teodor\", \"teodor_15@gmail.com\")\n        people_service.add_person(2, \"Alex\", \"alex.2003@gmail.com\")\n        people_service.add_person(3, \"Teodor\", \"teodor.1404@gmail.com\")\n    def clear_test(self):",
+        "detail": "Teste.Test_Service.people_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.people_service_test",
+        "description": "Teste.Test_Service.people_service_test",
+        "peekOfCode": "people_exception = PersonException\npeople_reposiotry = PeopleRep()\npeople_service = PeopleService(people_reposiotry, people_exception, people_validator)\nclass TestPeopleService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"Teodor\", \"teodor_15@gmail.com\")\n        people_service.add_person(2, \"Alex\", \"alex.2003@gmail.com\")\n        people_service.add_person(3, \"Teodor\", \"teodor.1404@gmail.com\")\n    def clear_test(self):\n        people_reposiotry.delete_all_people()",
+        "detail": "Teste.Test_Service.people_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_reposiotry",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.people_service_test",
+        "description": "Teste.Test_Service.people_service_test",
+        "peekOfCode": "people_reposiotry = PeopleRep()\npeople_service = PeopleService(people_reposiotry, people_exception, people_validator)\nclass TestPeopleService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"Teodor\", \"teodor_15@gmail.com\")\n        people_service.add_person(2, \"Alex\", \"alex.2003@gmail.com\")\n        people_service.add_person(3, \"Teodor\", \"teodor.1404@gmail.com\")\n    def clear_test(self):\n        people_reposiotry.delete_all_people()\n    def test_check_if_exists(self):",
+        "detail": "Teste.Test_Service.people_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_service",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.people_service_test",
+        "description": "Teste.Test_Service.people_service_test",
+        "peekOfCode": "people_service = PeopleService(people_reposiotry, people_exception, people_validator)\nclass TestPeopleService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"Teodor\", \"teodor_15@gmail.com\")\n        people_service.add_person(2, \"Alex\", \"alex.2003@gmail.com\")\n        people_service.add_person(3, \"Teodor\", \"teodor.1404@gmail.com\")\n    def clear_test(self):\n        people_reposiotry.delete_all_people()\n    def test_check_if_exists(self):\n        self.setup()",
+        "detail": "Teste.Test_Service.people_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestSignService",
+        "kind": 6,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "class TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")\n        people_service.add_person(3, \"person3\", \"adress\")\n        events_service.add_event(1, \"01.01\", 3, \"event1\")\n        events_service.add_event(2, \"20.12\", 4, \"event2\")\n        sign_service.sign_person_to_event(1, 1)\n        sign_service.sign_person_to_event(1, 2)\n        sign_service.sign_person_to_event(2, 1)",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "sign_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "sign_exception = SignException\nevent_exception = EventException\nperson_exception = PersonException\nevent_repository = EventRep()\npeople_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nsign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "event_exception = EventException\nperson_exception = PersonException\nevent_repository = EventRep()\npeople_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nsign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "person_exception",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "person_exception = PersonException\nevent_repository = EventRep()\npeople_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nsign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "event_repository = EventRep()\npeople_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nsign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "people_repository = PeopleRep()\nsign_repository = SignPeople(people_repository, event_repository)\nsign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "sign_repository",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "sign_repository = SignPeople(people_repository, event_repository)\nsign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "sign_service",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "sign_service = SignSerivce(sign_repository, people_repository, event_repository, person_exception, event_exception)\nperson_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")\n        people_service.add_person(3, \"person3\", \"adress\")",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "person_validator",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "person_validator = PersonValidator()\npeople_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")\n        people_service.add_person(3, \"person3\", \"adress\")\n        events_service.add_event(1, \"01.01\", 3, \"event1\")",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "people_service",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "people_service = PeopleService(people_repository, person_exception, person_validator)\nevent_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")\n        people_service.add_person(3, \"person3\", \"adress\")\n        events_service.add_event(1, \"01.01\", 3, \"event1\")\n        events_service.add_event(2, \"20.12\", 4, \"event2\")",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "event_validator",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "event_validator = EventValidator()\nevents_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")\n        people_service.add_person(3, \"person3\", \"adress\")\n        events_service.add_event(1, \"01.01\", 3, \"event1\")\n        events_service.add_event(2, \"20.12\", 4, \"event2\")\n        sign_service.sign_person_to_event(1, 1)",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "events_service",
+        "kind": 5,
+        "importPath": "Teste.Test_Service.sign_service_test",
+        "description": "Teste.Test_Service.sign_service_test",
+        "peekOfCode": "events_service = EventsService(event_repository, event_exception, event_validator)\nclass TestSignService(unittest.TestCase):\n    def setup(self):\n        people_service.add_person(1, \"person1\", \"adress\")\n        people_service.add_person(2, \"person2\", \"adress\")\n        people_service.add_person(3, \"person3\", \"adress\")\n        events_service.add_event(1, \"01.01\", 3, \"event1\")\n        events_service.add_event(2, \"20.12\", 4, \"event2\")\n        sign_service.sign_person_to_event(1, 1)\n        sign_service.sign_person_to_event(1, 2)",
+        "detail": "Teste.Test_Service.sign_service_test",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "kind": 6,
+        "importPath": "UI.console",
+        "description": "UI.console",
+        "peekOfCode": "class Console:\n    def __init__(self, person_service, event_service, sign_service):\n        self.__person_service = person_service\n        self.__event_service = event_service\n        self.__sign_service = sign_service\n    def run_console(self):\n        print(\"\"\"\n              Meniu\n              1.Adauga o persoana\n              2.Adauga un eveniment",
+        "detail": "UI.console",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():   \n   person_exception = PersonException\n   person_validator = PersonValidator()\n   event_exception = EventException\n   event_validator = EventValidator()\n   people_repository = PeopleTextFile(r\"C:\\Users\\teodo\\Desktop\\New folder\\Organizare Evenimente\\Data\\persoane\", person_validator)\n   events_repository = EventTextFile(r\"C:\\Users\\teodo\\Desktop\\New folder\\Organizare Evenimente\\Data\\evenimente\", event_validator)\n   sign_repository = SignTextFile(r\"C:\\Users\\teodo\\Desktop\\New folder\\Organizare Evenimente\\Data\\inscrieri\", people_repository, events_repository)\n   events_service = EventsService(events_repository, event_exception, event_validator)\n   people_service = PeopleService(people_repository, person_exception, person_validator)",
+        "detail": "main",
+        "documentation": {}
+    }
+]

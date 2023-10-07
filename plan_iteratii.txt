@@ -1,0 +1,23 @@
+Saptamana 1:
+    -> entitatile "Person" si "Event"
+    -> lista de persoane:
+        -> adaugarea persoanelor
+        -> actualizarea unei persoane
+        -> stergerea unei persoane
+        -> afisarea listei
+        -> cautare persoana
+    -> lista de evenimente:
+        -> adaugarea evenimentelor
+        -> actualizarea unui eveniment
+        -> stergerea unui eveniment
+        -> afisarea listei
+        -> cautare eveniment
+
+Saptamana 2:
+    -> Înscriere persoană la eveniment
+    -> Persoane participante la cele mai multe evenimente
+
+Saptamana 3:
+    -> Custom exceptions
+    -> Lista de evenimente la care participă o persoană ordonat alfabetic după descriere, după dată
+    -> Primele 20% evenimente cu cei mai mulți participanți (descriere, număr participanți)
