@@ -7,7 +7,7 @@ event = Event(1, "01.01", 3, "descr")
 class TestEntities(unittest.TestCase):
     def test_print_person(self):
         prs_array = str(person)
-        self.assertEqual(prs_array, "ID: 1, Nume: person, Adresa: adress \n")\
+        self.assertEqual(prs_array, "ID: 1, Nume: person, Adresa: adress \n")
             
     def test_print_event(self):
         event_array = str(event)
